@@ -21,3 +21,8 @@ Explore trending movies and various movie categories in a Netflix-like interface
 
 
 Feel free to explore and enjoy the Netflix Clone! 🍿🎬
+
+
+## Author
+
+Sami Noor Saifi
